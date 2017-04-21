@@ -1,2 +1,2 @@
 # anonymous-sih
-smart india hackathon summy app of ui
+smart india hackathon dummy app of ui
